@@ -1,0 +1,1 @@
+Simple timer Promise callback function that can be used in async / await functions.
